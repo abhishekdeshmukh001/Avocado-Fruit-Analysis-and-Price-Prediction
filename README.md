@@ -3,18 +3,19 @@
 ### A. Description:
 This project focuses on analyzing avocado data to gain insights into avocado prices, production regions, yearly trends, and more. It involves data visualization, statistical analysis, and machine learning to answer the following key questions:
 
-### B. Dataset Description: 
+### B. Questions Addressed:
+      1. Which region has the lowest and highest prices of Avocado?
+      2. What is the highest region of avocado production?
+      3. What are the average avocado prices in each year?
+      4. What are the average avocado volumes in each year?
+
+
+### C. Dataset Description: 
 The dataset contains various attributes such as Date, AveragePrice, Total Volume, Total Bags, 4046, 4225, 4770, type, etc.
 
 We will be using the following dataset:
 
       avocado.csv
-
-### C. Questions Addressed:
-      1. Which region has the lowest and highest prices of Avocado?
-      2. What is the highest region of avocado production?
-      3. What are the average avocado prices in each year?
-      4. What are the average avocado volumes in each year?
 
 
 ## -Tasks Performed:
